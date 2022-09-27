@@ -1,5 +1,6 @@
 # GDSC Uniuyo Frontend Repo 
 This is the frontend project for the GDSC Uniuyo website 
+
 Figma Link: https://www.figma.com/file/MbWMSXz2e8d5cSLiw02U0k/GDSC?node-id=1%3A2
 
 ## Contributing
